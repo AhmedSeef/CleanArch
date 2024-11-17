@@ -1,0 +1,4 @@
+﻿C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.Infra.Data\Context\DomainDataContext.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.Infra.Data\Migrations\20241117072844_Add Domain Data.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.Infra.Data\Migrations\20241117072844_Add Domain Data.Designer.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.Infra.Data\Migrations\DomainDataContextModelSnapshot.cs

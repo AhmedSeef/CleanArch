@@ -1,0 +1,23 @@
+﻿C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Business\Interfaces\IAccountService.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Business\Services\AccountService .cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Controllers\AccountController.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Controllers\WeatherForecastController.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Data\AppDbContext.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\DTOs\LoginDto.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\DTOs\RegisterDto.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\DTOs\ResetPasswordDto.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\DTOs\UserProfileDto.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Migrations\20241116212907_InitialCreate.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Migrations\20241116212907_InitialCreate.Designer.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Migrations\AppDbContextModelSnapshot.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Models\ServiceResponse.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Program.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\WeatherForecast.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.GlobalUsings.g.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.AssemblyInfo.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\obj\Debug\net8.0\CleanArch.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\appsettings.Development.json
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\appsettings.json
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\CleanArch.API.http
+C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.API\Properties\launchSettings.json

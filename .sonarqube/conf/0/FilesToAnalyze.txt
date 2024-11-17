@@ -1,0 +1,1 @@
+﻿C:\Users\AhmedGouda\source\repos\CleanArch\CleanArch.Domain\Models\Course.cs
